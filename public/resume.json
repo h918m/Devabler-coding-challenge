@@ -1,0 +1,48 @@
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "email": "john@gmail.com",
+  "tel": "(250) 790 888 345",
+  "position": "Software Engineer",
+  "objective": "I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems. The last 7+ years, I've honed my analytical thinking and collaboration skills, and I love working with a team.",
+  "social_links": [
+    {
+      "title": "Email",
+      "link": "mailto:john@gmail.com"
+    },
+    {
+      "title": "Phone number",
+      "link": "tel:+123-456-7890"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/johnsmith"
+    },
+    {
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/johnsmith"
+    },
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com/johnsmith"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "company": "Tesla",
+      "position": "CEO",
+      "description": "Tesla is an American electric vehicle and clean energy company based in Palo Alto, California.",
+      "startDate": "2012",
+      "endDate": "2018"
+    },
+    {
+      "id": 2,
+      "company": "SpaceX",
+      "position": "Software Engineer",
+      "description": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
+      "startDate": "2020",
+      "endDate": "2022"
+    }
+  ]
+}
